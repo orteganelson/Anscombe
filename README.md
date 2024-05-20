@@ -34,7 +34,3 @@ A continuación, se muestra una representación gráfica del Cuarteto de Anscomb
 ### Referencia
 
 - Anscombe, F. J. (1973). "Graphs in Statistical Analysis". *The American Statistician*, 27(1), 17-21.
-
----
-
-Este archivo README.md contiene información básica sobre el Cuarteto de Anscombe, incluyendo su definición, importancia y una referencia académica. Además, se incluye una imagen representativa de los conjuntos de datos para ilustrar visualmente los conceptos discutidos.
