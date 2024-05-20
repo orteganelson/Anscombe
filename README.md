@@ -2,11 +2,11 @@
 Repositorio de prácticas de Minería de Datos
 # Universidad Politécnica Salesiana
 
-## Carrera de [Nombre de tu carrera]
+## Carrera de Computación
 
-## Período Académico: [Periodo]
+## Período Académico: 2024 - 2024
 
-## Estudiante: [Tu Nombre]
+## Estudiante: Nelson Ortega
 
 ---
 
