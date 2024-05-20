@@ -2,8 +2,9 @@
 Repositorio de prácticas de Minería de Datos
 # Universidad Politécnica Salesiana
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Logo_Universidad_Politécnica_Salesiana_del_Ecuador.png/800px-Logo_Universidad_Politécnica_Salesiana_del_Ecuador.png" alt="Logo Universidad Politécnica Salesiana del Ecuador">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Logo_Universidad_Politécnica_Salesiana_del_Ecuador.png" alt="Logo Universidad Politécnica Salesiana del Ecuador">
 </p>
+
 
 ## Carrera de Computación
 
