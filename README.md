@@ -39,5 +39,5 @@ A continuación, se muestra una representación gráfica del Cuarteto de Anscomb
 
 ### Referencia
 
-- Gómez Betancur, D. A. (2020). Visual Analytics para Análisis Exploratorio de Datos. Recuperado de: https://riaa-tecno.unca.edu.ar/handle/123456789/94
+- Minguillón, J., & Pascual Cid, V. (2016). Visualización de datos: técnicas avanzadas, septiembre 2016. Recuperado de: http://hdl.handle.net/10609/136348
 - Coromina, Ò. Visualizar, explorar y analizar datos (por este orden). Créditos, 85. Recuperado de: http://hdl.handle.net/10609/57624
