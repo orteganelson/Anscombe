@@ -4,7 +4,7 @@ Repositorio de prácticas de Minería de Datos
 
 ## Carrera de Computación
 
-## Período Académico: 2024 - 2024
+## Período Académico 64: 2024 - 2024
 
 ## Estudiante: Nelson Ortega
 
