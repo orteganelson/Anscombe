@@ -18,18 +18,20 @@ Repositorio de prácticas de Minería de Datos
 
 ### ¿Qué es el Cuarteto de Anscombe?
 
-El Cuarteto de Anscombe es un conjunto de cuatro conjuntos de datos (o "grupos") que tienen propiedades estadísticas casi idénticas entre sí, aunque sus gráficos son muy diferentes. Fue creado por el estadístico británico Francis Anscombe en 1973 para demostrar la importancia de graficar los datos antes de analizarlos estadísticamente. Cada conjunto de datos en el cuarteto tiene:
+El Cuarteto de Anscombe es un conjunto de cuatro conjuntos de datos que tienen propiedades estadísticas casi idénticas entre sí, aunque sus gráficos son muy diferentes. Fue creado por el estadístico británico Francis Anscombe en 1973 para demostrar la importancia de graficar los datos antes de analizarlos estadísticamente. Cada conjunto de datos en el cuarteto tiene:
 
 - La misma media (promedio) de x y de y.
 - La misma varianza de x y de y.
 - La misma correlación entre x y y.
 - La misma línea de regresión.
 
+No obstante, cada conjunto revela patrones diferentes cuando se visualizan gráficamente: uno muestra datos típicos, otro una relación no lineal, un tercero una relación lineal con un outlier, y el último una relación no lineal influenciada por un outlier. 
+ 
 ### Importancia
 
-El Cuarteto de Anscombe ilustra que diferentes distribuciones de datos pueden compartir propiedades estadísticas similares pero presentar patrones gráficos completamente distintos. Esto resalta la importancia de la visualización de datos en el análisis estadístico para evitar interpretaciones erróneas basadas únicamente en medidas numéricas.
+El cuarteto de Anscombe subraya la importancia de la visualización de datos para entender las distribuciones, destacando las limitaciones de los descriptores estadísticos tradicionales y la necesidad de representaciones gráficas para un análisis más profundo. 
 
-### Ejemplo Visual
+### Gráfica
 
 A continuación, se muestra una representación gráfica del Cuarteto de Anscombe:
 
@@ -37,4 +39,5 @@ A continuación, se muestra una representación gráfica del Cuarteto de Anscomb
 
 ### Referencia
 
-- Anscombe, F. J. (1973). "Graphs in Statistical Analysis". *The American Statistician*, 27(1), 17-21.
+- Gómez Betancur, D. A. (2020). Visual Analytics para Análisis Exploratorio de Datos. Recuperado de: https://riaa-tecno.unca.edu.ar/handle/123456789/94
+- Coromina, Ò. Visualizar, explorar y analizar datos (por este orden). Créditos, 85. Recuperado de: http://hdl.handle.net/10609/57624
